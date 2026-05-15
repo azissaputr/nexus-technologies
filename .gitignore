@@ -1,0 +1,39 @@
+# ========================
+# macOS System Files
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ========================
+# Editor & IDE Files
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# Logs
+# ========================
+*.log
+npm-debug.log*
+
+# ========================
+# Node (jika ada)
+# ========================
+node_modules/
+dist/
+.env
+.env.local
+
+# ========================
+# OS Generated
+# ========================
+Desktop.ini
+$RECYCLE.BIN/
