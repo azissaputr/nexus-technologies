@@ -36,7 +36,6 @@
 - [Kompatibilitas Browser](#-kompatibilitas-browser)
 - [Kontribusi](#-kontribusi)
 - [Lisensi](#-lisensi)
-- [Kontak](#-kontak)
 
 ---
 
@@ -547,18 +546,6 @@ Didistribusikan di bawah **Lisensi MIT**. Lihat file [LICENSE](LICENSE) untuk in
 
 ---
 
-## 📬 Kontak
-
-**Nexus Technologies**
-
-- 🌐 Website: [nexustech.id](https://nexustech.id)
-- 📧 Email: [hello@nexustech.id](mailto:hello@nexustech.id)
-- 📍 Alamat: Jl. Inovasi Digital No. 88, Jakarta Selatan 12345
-- 📞 Telepon: +62 21 1234 5678
-- 📸 Instagram: [@nexustech.id](#)
-- 💼 LinkedIn: [Nexus Technologies](#)
-
----
 
 <div align="center">
 
