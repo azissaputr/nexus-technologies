@@ -58,7 +58,32 @@ Website ini menggabungkan estetika desain modern dengan performa tinggi — seti
 
 ## 📸 Tampilan Website
 
-> *Screenshot dan demo akan ditampilkan di sini setelah deployment.*
+Berikut adalah beberapa tangkapan layar dari tampilan website Nexus Technologies untuk setiap bagian:
+
+### Hero Section
+![Hero Section](assets/images/hero-bg.png)
+
+### About Section
+![About Section](assets/images/about.png)
+
+### Services Section
+![Services Section](assets/images/services.png)
+
+### Portfolio Section
+<div style="display: flex; gap: 10px; justify-content: space-between;">
+  <img src="assets/images/portfolio-web.png" width="32%" alt="Portfolio Web App">
+  <img src="assets/images/portfolio-mobile.png" width="32%" alt="Portfolio Mobile App">
+  <img src="assets/images/portfolio-branding.png" width="32%" alt="Portfolio Branding">
+</div>
+
+### Team Section
+![Team Section](assets/images/team.png)
+
+### Testimonials Section
+![Testimonials Section](assets/images/testimonials.png)
+
+### Contact Section
+![Contact Section](assets/images/contact.png)
 
 | Bagian | Deskripsi |
 |--------|-----------|
