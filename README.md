@@ -82,9 +82,6 @@ Berikut adalah beberapa tangkapan layar dari tampilan website Nexus Technologies
 ### Testimonials Section
 ![Testimonials Section](assets/images/testimonials.png)
 
-### Contact Section
-![Contact Section](assets/images/contact.png)
-
 | Bagian | Deskripsi |
 |--------|-----------|
 | Hero Section | Animasi particle, teks bertik otomatis, dan statistik perusahaan |
